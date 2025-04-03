@@ -4,12 +4,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100"/>
 </div>
 
-<div align="center">
-  <a href="https://www.instagram.com/v_kortsanov/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ---
 
 ### :man_technologist: About Me
