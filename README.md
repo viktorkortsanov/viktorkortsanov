@@ -1,14 +1,14 @@
 # Hello, I'm Viktor 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100" height="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="200" height="200"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me
 
-I'm a Web Developer <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30"> from Bulgaria.
+I'm a Web Developer from Bulgaria.
 
 - 🔭 I'm currently working on ShredX
 - 💬 Ask me about Programming and Bodybuilding
@@ -34,14 +34,4 @@ I'm a Web Developer <img src="https://user-images.githubusercontent.com/74038190
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <!-- Add more technology icons based on your skills -->
-</div>
-
----
-
-### :writing_hand: Recent Projects
-
-<div align="center">
-  <a href="https://github.com/viktorkortsanov/ShredX">
-    <img align="center" src="https://github.com/viktorkortsanov/ShredX" />
-  </a>
 </div>
