@@ -1,7 +1,7 @@
 # Hello, I'm Viktor 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="200" height="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" height="200"/>
 </div>
 
 ---
